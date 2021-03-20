@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.banner-area{
+    background-image: url("img/banner.jpg");
+    height: 453px;
+    }
+.welcome-text{
+    padding: 100px;
+    color: white;
+    font-size: 65px;
+    text-align: center;
+      }
+.hilight-text{
+    font-weight:700;
+}
+ .welcome-text p{ 
+        margin: 10px;
+        font-family: sans-serif;
+        font-size: 20px;
+        color: white;
+        text-align: center;     
+        }
+    .learn{
+        text-decoration:none;
+        font-family: sans-serif;
+        color:white;
+        background-color:#1BBC9B;
+        font-size: 18px;
+        font-weight: 500;
+        padding: 20px;
+       
+     }
+     h3{
+         color: #444;
+     }
+     .navbar{
+        height: 100px;
+    }
+     .navbar ul li {
+         display: flex;
+         justify-content: start;
+         font-size: 15px;
+         color: #444;
+         padding: 20px;
+        
+    }
+     a:hover{
+               color:#1BC9B;
+         }
+         
+     .portfolio-area {
+         text-align: center;
+         margin-top: 50px;
+     }
+     .portfolio-area p {
+         color:#444; 
+     }
+.criteria{
+    text-align: center;
+    margin-top: 50px;
+}
+.design {
+       text-decoration:none;
+    font-family: sans-serif;
+    color:white ;
+    background-color:#1BBC9B;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 12px 10px;
+    margin: 10px;
+}
+.image-area{
+    margin-top: 20px;
+    padding:20px;
+    height: 400px;
+    display: flex;
+justify-content: start;
+
+}
+.image-area img{
+    width: 80%;
+    
+}
+h3,p{
+    margin: 20px;
+text-align: center;
+color:white;
+}
+
+h5,h6 {
+    text-align: center;
+    
+}
+.card img {
+    width: 380px;
+    height: 420px; 
+    padding: 30px;
+   }
+ .card{
+     border: none;
+margin: 10px;
+}
+ .about-area{
+    background-color:#1BBC9B;
+}
+.card-body p{
+    color: black;
+}
